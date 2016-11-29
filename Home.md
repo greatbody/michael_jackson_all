@@ -1,3 +1,3 @@
-test
+# 资源汇总
 
-`ssd`
+[MJ资源汇总](https://github.com/greatbody/michael_jackson_all/wiki)
